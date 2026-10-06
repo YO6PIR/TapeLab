@@ -142,11 +142,7 @@ Measurements are performed across multiple test frequencies and can be displayed
 The final result can also be viewed as a combined **L + R** response.
 
 ---
-
-**[PLACEHOLDER: IMAGINE TAPELAB – TAPE EQ]**
-
-*Recommended image: Screenshot of the final Tape EQ measurement screen with the response graph visible.*
-
+<img width="600" height="444" alt="image" src="https://github.com/user-attachments/assets/ab9caf25-c70a-44c6-89d1-bfe6bbaa34d4" />
 ---
 
 ## Bias Calibration
