@@ -8,7 +8,8 @@ It combines a custom analog audio front-end, high-speed ADC acquisition, DSP-bas
 
 ---
 
-**[PLACEHOLDER: IMAGINE TAPELAB – ANSAMBLU]**
+<img width="1272" height="770" alt="image" src="https://github.com/user-attachments/assets/2354e5d9-07b7-447e-b999-ee16c3b69f11" />
+
 
 *Recommended image: A clean photograph showing the complete TapeLAB instrument, preferably powered on with the display visible.*
 
