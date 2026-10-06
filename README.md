@@ -93,12 +93,6 @@ DSP Processing
      └── Calibration
 ```
 
-<img width="2806" height="1984" alt="image" src="https://github.com/user-attachments/assets/a859504d-50df-451c-a6f6-7fcb03fbd02c" />
-
-<img width="2806" height="1984" alt="image" src="https://github.com/user-attachments/assets/1915a7a4-e386-4843-80a5-9ecf546d6ce1" />
-
----
-
 ## FFT Spectrum Analyzer
 
 TapeLAB includes a real-time FFT spectrum analyzer based on **ARM CMSIS-DSP**.
@@ -191,11 +185,7 @@ The Dolby test system evaluates the playback response and provides a graphical r
 
 ---
 
-**[PLACEHOLDER: IMAGINE TAPELAB – DOLBY TEST]**
-
-*Recommended image: Screenshot of the final Dolby test result screen.*
-
----
+<img width="600" height="454" alt="image" src="https://github.com/user-attachments/assets/80e43869-6c83-4e26-af88-9a8cc594161d" />
 
 ## Noise Measurement
 
@@ -207,11 +197,7 @@ This makes the measurement more representative of the actual tape and deck perfo
 
 ---
 
-**[PLACEHOLDER: IMAGINE TAPELAB – NOISE MEASUREMENT]**
-
-*Recommended image: Screenshot of the Noise or Noise HF measurement screen.*
-
----
+<img width="600" height="451" alt="image" src="https://github.com/user-attachments/assets/8f8a5e9a-cfeb-471c-aeb9-25c4c7747e5f" />
 
 ## Test History
 
@@ -227,14 +213,6 @@ DOLBY 3H
 ```
 
 The browser allows the user to review individual measurement sequences directly from the instrument.
-
----
-
-**[PLACEHOLDER: IMAGINE TAPELAB – TEST BROWSER]**
-
-*Recommended image: Screenshot of the TESTS browser showing the available test categories.*
-
----
 
 ## Software
 
@@ -271,16 +249,6 @@ At a high level, the firmware can be viewed as several cooperating layers:
 │     Analog Front-End        │
 └─────────────────────────────┘
 ```
-
----
-
-**[PLACEHOLDER: IMAGINE TAPELAB – ARHITECTURA SOFTWARE]**
-
-*Optional image: A polished diagram showing the relationship between the hardware acquisition layer, DSP, measurement modules and user interface.*
-
-*This image is optional because the text diagram above already explains the architecture.*
-
----
 
 ## Development History
 
@@ -330,11 +298,9 @@ Planned documentation includes:
 
 ---
 
-**[PLACEHOLDER: IMAGINE TAPELAB – SCHEMA ELECTRONICĂ]**
+<img width="2806" height="1984" alt="image" src="https://github.com/user-attachments/assets/a859504d-50df-451c-a6f6-7fcb03fbd02c" />
 
-*Recommended image or PDF: The complete electronic schematic of the TapeLAB hardware.*
-
-*Unlike the earlier block diagram, this should be the actual circuit schematic.*
+<img width="2806" height="1984" alt="image" src="https://github.com/user-attachments/assets/1915a7a4-e386-4843-80a5-9ecf546d6ce1" />
 
 ---
 
