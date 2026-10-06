@@ -65,13 +65,7 @@ TapeLAB is based on an STM32 microcontroller and a custom analog audio front-end
 | DSP | ARM CMSIS-DSP |
 
 ---
-
-**[PLACEHOLDER: IMAGINE TAPELAB – INTERIOR]**
-
-*Recommended image: Photograph of the inside of the instrument showing the STM32 board, analog front-end, power supply and wiring.*
-
-This image is useful because it shows how the project was actually built rather than only presenting the finished enclosure.
-
+<img width="1833" height="576" alt="image" src="https://github.com/user-attachments/assets/198cf70d-5662-4f33-b095-30f39558df11" />
 ---
 
 ## Signal Acquisition
