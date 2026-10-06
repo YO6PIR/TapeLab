@@ -167,11 +167,7 @@ The objective is to provide a repeatable calibration procedure instead of relyin
 
 ---
 
-**[PLACEHOLDER: IMAGINE TAPELAB – ATC]**
-
-*Recommended image: Screenshot showing the ATC procedure in progress or the completed calibration result.*
-
----
+<img width="600" height="445" alt="image" src="https://github.com/user-attachments/assets/7e7e4e95-037a-4bab-a0b3-ff2f7f88a375" />
 
 ## Dolby Testing
 
