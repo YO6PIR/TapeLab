@@ -101,11 +101,9 @@ DSP Processing
 
 ---
 
-**[PLACEHOLDER: IMAGINE TAPELAB – SCHEMA BLOC]**
+<img width="2806" height="1984" alt="image" src="https://github.com/user-attachments/assets/a859504d-50df-451c-a6f6-7fcb03fbd02c" />
 
-*Recommended image: A clean graphical block diagram showing the complete signal path from audio input to ADC, DMA, DSP and display.*
-
-*A simplified block diagram is preferable here to a full electronic schematic.*
+<img width="2806" height="1984" alt="image" src="https://github.com/user-attachments/assets/1915a7a4-e386-4843-80a5-9ecf546d6ce1" />
 
 ---
 
