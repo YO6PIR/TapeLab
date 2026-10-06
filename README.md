@@ -151,8 +151,7 @@ Typical result categories include:
 - **BIAS ACCEPTABLE**
 
 ---
-<img width="600" height="445" alt="image" src="https://github.com/user-attachments/assets/2c6f9070-d63b-4b12-87f3-471e9016c163" />
-
+<img width="600" height="441" alt="image" src="https://github.com/user-attachments/assets/751990d3-e85a-4f9e-bdc7-31ff11b43be0" />
 
 ## Automatic Tape Calibration
 
