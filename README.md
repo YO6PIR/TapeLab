@@ -135,7 +135,6 @@ The final result can also be viewed as a combined **L + R** response.
 
 ---
 <img width="600" height="444" alt="image" src="https://github.com/user-attachments/assets/ab9caf25-c70a-44c6-89d1-bfe6bbaa34d4" />
----
 
 ## Bias Calibration
 
@@ -152,12 +151,8 @@ Typical result categories include:
 - **BIAS ACCEPTABLE**
 
 ---
+<img width="600" height="445" alt="image" src="https://github.com/user-attachments/assets/2c6f9070-d63b-4b12-87f3-471e9016c163" />
 
-**[PLACEHOLDER: IMAGINE TAPELAB – BIAS CALIBRATION]**
-
-*Recommended image: Screenshot of the Bias Calibration / ATC screen showing the measurement progress or final result.*
-
----
 
 ## Automatic Tape Calibration
 
