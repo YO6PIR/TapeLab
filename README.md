@@ -6,11 +6,7 @@ TapeLAB is a dedicated measurement and calibration system designed for working w
 
 It combines a custom analog audio front-end, high-speed ADC acquisition, DSP-based signal analysis and a graphical touchscreen interface into a compact standalone instrument.
 
----
-
 <img width="1272" height="770" alt="image" src="https://github.com/user-attachments/assets/2354e5d9-07b7-447e-b999-ee16c3b69f11" />
-
----
 
 ## Overview
 
@@ -64,9 +60,7 @@ TapeLAB is based on an STM32 microcontroller and a custom analog audio front-end
 | Audio Front-End | Custom analog circuitry |
 | DSP | ARM CMSIS-DSP |
 
----
 <img width="1833" height="576" alt="image" src="https://github.com/user-attachments/assets/198cf70d-5662-4f33-b095-30f39558df11" />
----
 
 ## Signal Acquisition
 
@@ -98,8 +92,6 @@ DSP Processing
      ├── Noise Analysis
      └── Calibration
 ```
-
----
 
 <img width="2806" height="1984" alt="image" src="https://github.com/user-attachments/assets/a859504d-50df-451c-a6f6-7fcb03fbd02c" />
 
