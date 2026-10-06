@@ -109,11 +109,7 @@ The zoom function allows the user to re-center the spectrum around a selected fr
 
 ---
 
-**[PLACEHOLDER: IMAGINE TAPELAB – FFT ANALYZER]**
-
-*Recommended image: Screenshot of the TapeLAB FFT Analyzer showing the spectrum curve, frequency scale and PEAK measurement.*
-
----
+<img width="600" height="446" alt="image" src="https://github.com/user-attachments/assets/d1e9b9eb-a94c-44ba-85dc-b05a2f49f396" />
 
 The FFT analyzer is useful for examining:
 
