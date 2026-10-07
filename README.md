@@ -330,6 +330,15 @@ Additional documentation will be added over time, covering:
 This project is provided for educational, experimental, and personal development use.
 
 See the repository license for the applicable terms.
+## License
+
+TapeLab is released under the **MIT License**.
+
+Copyright (c) 2026 Ovidiu / YO6PIR
+
+See the [LICENSE](LICENSE) file for the complete license text.
+
+Third-party libraries and components used by TapeLab remain subject to their respective licenses.
 
 ---
 
